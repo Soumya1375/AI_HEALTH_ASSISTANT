@@ -1,0 +1,104 @@
+{
+    "Common Cold": {
+        "symptoms": [
+            "Cough",
+            "Sore Throat",
+            "Runny Nose",
+            "Sneezing"
+        ],
+        "description": "A mild viral infection affecting the nose and throat.",
+        "advice": "Drink plenty of fluids, rest well, and monitor symptoms."
+    },
+
+    "Flu": {
+        "symptoms": [
+            "Fever",
+            "Cough",
+            "Fatigue",
+            "Headache",
+            "Sore Throat"
+        ],
+        "description": "A viral infection that affects the respiratory system.",
+        "advice": "Get adequate rest, stay hydrated, and seek medical advice if symptoms worsen."
+    },
+
+    "Migraine": {
+        "symptoms": [
+            "Headache",
+            "Nausea",
+            "Dizziness"
+        ],
+        "description": "A neurological condition causing severe headaches and sensitivity.",
+        "advice": "Rest in a quiet environment and consult a healthcare professional if frequent."
+    },
+
+    "Gastritis": {
+        "symptoms": [
+            "Vomiting",
+            "Nausea",
+            "Fatigue"
+        ],
+        "description": "Inflammation of the stomach lining.",
+        "advice": "Avoid spicy foods and seek medical advice if symptoms persist."
+    },
+
+    "Bronchitis": {
+        "symptoms": [
+            "Cough",
+            "Fatigue",
+            "Shortness of Breath"
+        ],
+        "description": "Inflammation of the bronchial tubes in the lungs.",
+        "advice": "Avoid smoking and stay hydrated."
+    },
+
+    "Viral Infection": {
+        "symptoms": [
+            "Fever",
+            "Fatigue",
+            "Headache"
+        ],
+        "description": "An infection caused by a virus.",
+        "advice": "Rest, fluids, and symptom monitoring are generally recommended."
+    },
+
+    "Food Poisoning": {
+        "symptoms": [
+            "Vomiting",
+            "Nausea",
+            "Fever"
+        ],
+        "description": "Illness caused by consuming contaminated food or beverages.",
+        "advice": "Stay hydrated and seek medical care if symptoms become severe."
+    },
+
+    "Stress Related Fatigue": {
+        "symptoms": [
+            "Fatigue",
+            "Headache",
+            "Dizziness"
+        ],
+        "description": "Physical and mental exhaustion associated with stress.",
+        "advice": "Maintain proper sleep, exercise regularly, and manage stress."
+    },
+
+    "Allergic Reaction": {
+        "symptoms": [
+            "Sneezing",
+            "Cough",
+            "Shortness of Breath"
+        ],
+        "description": "An immune system response to allergens.",
+        "advice": "Avoid known allergens and seek medical help for severe reactions."
+    },
+
+    "Possible Emergency Condition": {
+        "symptoms": [
+            "Chest Pain",
+            "Shortness of Breath",
+            "Unconscious"
+        ],
+        "description": "May indicate a serious medical emergency.",
+        "advice": "Seek immediate emergency medical assistance."
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "Fever": [
+        "Flu",
+        "Viral Infection",
+        "Food Poisoning"
+    ],
+
+    "Cough": [
+        "Common Cold",
+        "Flu",
+        "Bronchitis",
+        "Allergic Reaction"
+    ],
+
+    "Headache": [
+        "Migraine",
+        "Flu",
+        "Viral Infection",
+        "Stress Related Fatigue"
+    ],
+
+    "Fatigue": [
+        "Flu",
+        "Viral Infection",
+        "Bronchitis",
+        "Stress Related Fatigue"
+    ],
+
+    "Vomiting": [
+        "Food Poisoning",
+        "Gastritis"
+    ],
+
+    "Nausea": [
+        "Food Poisoning",
+        "Gastritis",
+        "Migraine"
+    ],
+
+    "Chest Pain": [
+        "Possible Emergency Condition"
+    ],
+
+    "Sore Throat": [
+        "Common Cold",
+        "Flu"
+    ],
+
+    "Shortness of Breath": [
+        "Bronchitis",
+        "Allergic Reaction",
+        "Possible Emergency Condition"
+    ],
+
+    "Dizziness": [
+        "Migraine",
+        "Stress Related Fatigue"
+    ],
+
+    "Sneezing": [
+        "Common Cold",
+        "Allergic Reaction"
+    ],
+
+    "Runny Nose": [
+        "Common Cold"
+    ],
+
+    "Unconscious": [
+        "Possible Emergency Condition"
+    ]
+}

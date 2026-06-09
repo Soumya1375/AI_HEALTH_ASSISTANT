@@ -1,0 +1,30 @@
+{
+    "Underweight": {
+        "min": 0,
+        "max": 18.4,
+        "status": "Underweight",
+        "message": "Your BMI is below the healthy range. Consider consulting a healthcare professional and maintaining a balanced diet."
+    },
+
+    "Normal": {
+        "min": 18.5,
+        "max": 24.9,
+        "status": "Normal Weight",
+        "message": "Your BMI is within the healthy range. Keep maintaining a balanced diet and regular physical activity."
+    },
+
+    "Overweight": {
+        "min": 25.0,
+        "max": 29.9,
+        "status": "Overweight",
+        "message": "Your BMI is above the healthy range. Consider regular exercise and a healthy eating plan."
+    },
+
+    "Obese": {
+        "min": 30.0,
+        "max": 100.0,
+        "status": "Obese",
+        "message": "Your BMI falls in the obesity range. It is recommended to consult a healthcare professional for guidance."
+    }
+}
+
